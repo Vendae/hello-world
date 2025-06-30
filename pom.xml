@@ -21,10 +21,6 @@
     <module>webapp</module>
   </modules>
 
-  <build>
-    <finalName>ROOT</finalName>
-  </build>
-
   <distributionManagement>
     <site>
       <id>site-server</id>
